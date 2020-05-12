@@ -385,7 +385,7 @@ namespace CIS580_final_project
             //spriteBatch.DrawString(font, "Mouse tile pos: (" + mouseTilePos.X + ", " + mouseTilePos.Y + ")", new Vector2(20, 60), Color.White);
 
             if (showHelp)
-            spriteBatch.DrawString(font, "Welcome to RailPuzzle! The goal of the game is to link each wagon\non the left with its corresponding end position on the right.\n\nControls:\nPlace straight rail: Numpad 1\nPlace curved rail:   Numpad 2\nPlace buffer rail:   Numpad 3\nPlace cross rail:    Numpad 4\nRotate active rail:  R\nDelete mode:         Q\nDeselect rail:       Esc\nRun level:           Space\nGenerate new level:  N\nToggle this message: H", new Vector2(20, 20), Color.White);
+            spriteBatch.DrawString(font, "Welcome to RailPuzzle! The goal of the game is to link each wagon\non the left with its corresponding end position on the right.\n\nControls:\nMove camera:         W, A, S, D\nPlace straight rail: Numpad 1\nPlace curved rail:   Numpad 2\nPlace buffer rail:   Numpad 3\nPlace cross rail:    Numpad 4\nRotate active rail:  R\nDelete mode:         Q\nDeselect rail:       Esc\nRun level:           Space\nGenerate new level:  N\nToggle this message: H", new Vector2(20, 20), Color.White);
 
             if (world.HasWon())
             {
