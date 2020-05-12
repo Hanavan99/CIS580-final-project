@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/KSU/CIS 580/CIS580_final_project/Content/default_font.spritefont","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/default_font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.2762621
+"D:/KSU/CIS 580/CIS580_final_project/Content/grass.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/grass.xnb","TextureProcessor","Texture2DContent",17035,16469,0.378059
+"D:/KSU/CIS 580/CIS580_final_project/Content/particle_rail.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/particle_rail.xnb","TextureProcessor","Texture2DContent",631,149,0.0079822
+"D:/KSU/CIS 580/CIS580_final_project/Content/rail.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/rail.xnb","TextureProcessor","Texture2DContent",17035,16469,0.0229351
+"D:/KSU/CIS 580/CIS580_final_project/Content/rail_buffer.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/rail_buffer.xnb","TextureProcessor","Texture2DContent",17035,16469,0.0199492
+"D:/KSU/CIS 580/CIS580_final_project/Content/rail_cross.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/rail_cross.xnb","TextureProcessor","Texture2DContent",17035,16469,0.0209469
+"D:/KSU/CIS 580/CIS580_final_project/Content/rail_curved.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/rail_curved.xnb","TextureProcessor","Texture2DContent",17035,16469,0.0304543
+"D:/KSU/CIS 580/CIS580_final_project/Content/wagon.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/wagon.xnb","TextureProcessor","Texture2DContent",17035,16469,0.0249329
+"D:/KSU/CIS 580/CIS580_final_project/Content/wagon_payload.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/wagon_payload.xnb","TextureProcessor","Texture2DContent",17035,16469,0.0229379
+"D:/KSU/CIS 580/CIS580_final_project/Content/win_font.spritefont","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/win_font.xnb","FontDescriptionProcessor","SpriteFontContent",2012,1053713,0.1605717

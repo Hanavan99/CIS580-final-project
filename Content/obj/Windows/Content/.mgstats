@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/KSU/CIS 580/CIS580_final_project/Content/default_font.spritefont","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/Content/default_font.xnb","FontDescriptionProcessor","SpriteFontContent",2011,21521,0.4238675
+"D:/KSU/CIS 580/CIS580_final_project/Content/grass.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/Content/grass.xnb","TextureProcessor","Texture2DContent",17035,16469,0.1565821
+"D:/KSU/CIS 580/CIS580_final_project/Content/particle_rail.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/Content/particle_rail.xnb","TextureProcessor","Texture2DContent",631,149,0.134681
+"D:/KSU/CIS 580/CIS580_final_project/Content/rail.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/Content/rail.xnb","TextureProcessor","Texture2DContent",17035,16469,0.1366757
+"D:/KSU/CIS 580/CIS580_final_project/Content/rail_buffer.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/Content/rail_buffer.xnb","TextureProcessor","Texture2DContent",17035,16469,0.1256646
+"D:/KSU/CIS 580/CIS580_final_project/Content/rail_cross.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/Content/rail_cross.xnb","TextureProcessor","Texture2DContent",17035,16469,0.0124697
+"D:/KSU/CIS 580/CIS580_final_project/Content/rail_curved.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/Content/rail_curved.xnb","TextureProcessor","Texture2DContent",17035,16469,0.1604912
+"D:/KSU/CIS 580/CIS580_final_project/Content/wagon.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/Content/wagon.xnb","TextureProcessor","Texture2DContent",17035,16469,0.2716018
+"D:/KSU/CIS 580/CIS580_final_project/Content/wagon_payload.png","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/Content/wagon_payload.xnb","TextureProcessor","Texture2DContent",17035,16469,0.194466
+"D:/KSU/CIS 580/CIS580_final_project/Content/win_font.spritefont","D:/KSU/CIS 580/CIS580_final_project/Content/bin/Windows/Content/win_font.xnb","FontDescriptionProcessor","SpriteFontContent",2012,1053713,0.153934

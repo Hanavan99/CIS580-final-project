@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/KSU/CIS 580/CIS580_final_project/Content/default_font.spritefont</File>
+    <File>D:/KSU/CIS 580/CIS580_final_project/Content/grass.png</File>
+    <File>D:/KSU/CIS 580/CIS580_final_project/Content/particle_rail.png</File>
+    <File>D:/KSU/CIS 580/CIS580_final_project/Content/rail.png</File>
+    <File>D:/KSU/CIS 580/CIS580_final_project/Content/rail_buffer.png</File>
+    <File>D:/KSU/CIS 580/CIS580_final_project/Content/rail_cross.png</File>
+    <File>D:/KSU/CIS 580/CIS580_final_project/Content/rail_curved.png</File>
+    <File>D:/KSU/CIS 580/CIS580_final_project/Content/wagon.png</File>
+    <File>D:/KSU/CIS 580/CIS580_final_project/Content/wagon_payload.png</File>
+    <File>D:/KSU/CIS 580/CIS580_final_project/Content/win_font.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
